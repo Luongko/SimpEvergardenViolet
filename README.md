@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="vi"> 
-<head> 
-    <meta charset="UTF-8"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <title>5 Đề Thi Ngữ Văn Giữa Kì 1</title> 
-    <style>
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>5 Đề Thi Ngữ Văn Giữa Kì 1</title> 
+  <style>
         /* Định dạng chung */
         * {
             box-sizing: border-box;
@@ -27,7 +27,7 @@
             color: #fff;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            background-image: url('https://i.postimg.cc/L5bn8N0c/795156371f5d889c8074caa89a66e95b.jpg'); /* Ảnh nền */
+            background-image: url('https://i.postimg.cc/L6GN1WdC/41004f4af4064e9681cdbb0777bd7b86.jpg'); /* Ảnh nền */
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -106,9 +106,9 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
     </style> 
-</head> 
-<body> 
-    <header> 
+ </head> 
+ <body> 
+  <header> 
         <h1>5 Đề Thi Ngữ Văn Giữa Kì 1</h1> 
         <div class="profile"> 
             <img src="https://i.postimg.cc/vmfL00BG/IMG-20241030-034057.jpg" alt="Ảnh của bạn"> 
